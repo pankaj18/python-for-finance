@@ -1,2 +1,3 @@
 # python-for-finance
-simple programs for finanace
+simple programs for finance
+
